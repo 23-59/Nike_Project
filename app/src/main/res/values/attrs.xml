@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="customDividerColor" format="color"/>
+
+    <declare-styleable name="CustomToolbar">
+
+        <attr name="customTitle" format="string"/>
+    </declare-styleable>
+
+</resources>

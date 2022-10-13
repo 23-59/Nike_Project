@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nike Store</string>
+    <string name="profile">حساب کاربری</string>
+    <string name="home">خانه</string>
+    <string name="cart">سبد خرید</string>
+    <string name="search">جستجو</string>
+    <string name="latest">جدیدترین ها</string>
+    <string name="most_popular">پربازدید ترین ها</string>
+    <string name="view_all">مشاهده همه</string>
+    <string name="view_all_comments">مشاهده همه نظرات</string>
+    <string name="users_comments">نظرات کاربران</string>
+    <string name="products_list">لیست محصولات</string>
+    <string name="most_expensive">گران ترین ها</string>
+    <string name="cheapest">ارزان ترین ها</string>
+    <string name="sort">مرتب سازی</string>
+</resources>
