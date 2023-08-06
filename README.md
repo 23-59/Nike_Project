@@ -1,5 +1,5 @@
 # Nike_Project
-ناتمام - به علت شروع یادگیری Jetpack Compose و شروع توسعه نرم افزار Nota  
+ناتمام - به علت شروع یادگیری Jetpack Compose و توسعه نرم افزار Nota  
   
 معماری MVVM  
 استفاده از لایبرری Koin برای پیاده سازی مفهوم Dependency Injection  
